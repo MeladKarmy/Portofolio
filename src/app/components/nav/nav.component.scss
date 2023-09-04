@@ -3,6 +3,7 @@ nav
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    
     >a{
         margin-right: .4rem;
         border-radius: 1.5rem;
@@ -14,6 +15,7 @@ nav
         flex-direction: column;
         align-items: center;
         justify-items: center;
+        font-family:cursive;
 
         >i{
             color: gray;
@@ -35,17 +37,4 @@ nav
             color: white;
         }
     }
-}
-
-@media (min-width: 576px) {
-       
-}
-@media (min-width: 768px) {
-   
-}
-@media (min-width: 992px) {
-    
-}
-@media (min-width: 1200px) {
-   
 }
