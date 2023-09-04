@@ -7,9 +7,9 @@ import { Component } from '@angular/core';
 })
 export class ProjectsComponent {
 projects:any=[
-  {img:'../../../assets/images/projects/E-Commerce.png',textImg:'E-Commerce Web App',desc:'JWT , Login & Register ,Operation CRUD for Products , Intersepter , Services , HTTP , Routing , Angular Matrial , Payment Method , Add product to cart , Fillter',repo:'',link:'https://shop-xi-two.vercel.app/home'},
-  {img:'../../../assets/images/projects/dashboard.png',textImg:'Dashboard',desc:'NGRX Translate , Angular Matrial , Services , Binding , Life Cycle , Drag &Drop , Responsive Design ',repo:'',link:'https://dash-board-melad.vercel.app/'},
-  {img:'../../../assets/images/projects/E-Commerce.png',textImg:'To Do App',desc:'Angular Matrial , Services , Binding , Life Cycle , Reactive Forms , HTTP , Operation CRUD , Fillter ',repo:'',link:'https://drive.google.com/file/d/15zP6M4xRVzey4yZfcvXMJbKRUNYDXo1p/view?usp=sharing'},
+  {img:'../../../assets/images/projects/E-Commerce.png',textImg:'E-Commerce Web App',desc:'JWT , Login & Register ,Operation CRUD for Products , Intersepter , Services , HTTP , Routing , Angular Matrial , Payment Method , Add product to cart , Fillter',repo:'https://github.com/MeladKarmy/shop.git',link:'https://shop-xi-two.vercel.app/home'},
+  {img:'../../../assets/images/projects/dashboard.png',textImg:'Dashboard',desc:'NGRX Translate , Angular Matrial , Services , Binding , Life Cycle , Drag &Drop , Responsive Design ',repo:'https://github.com/MeladKarmy/Dash-Board.git',link:'https://dash-board-melad.vercel.app/'},
+  {img:'../../../assets/images/projects/todoApp.png',textImg:'To Do App',desc:'Angular Matrial , Services , Binding , Life Cycle , Reactive Forms , HTTP , Operation CRUD , Fillter ',repo:'https://github.com/MeladKarmy/To-Do-App.git',link:'https://to-do-app-hazel-pi.vercel.app/'},
   {img:'../../../assets/images/projects/login.png',textImg:'Login & Register',desc:'Java Script , CSS , HTML , Responsive Design',repo:'https://github.com/MeladKarmy/login-and-Register.git',link:'https://meladkarmy.github.io/login-and-Register/index.html'},
   {img:'../../../assets/images/projects/construction.png',textImg:'landing page (pure css)',desc:'HTML , CSS',repo:'https://github.com/MeladKarmy/Responsive-web-site.git',link:'https://meladkarmy.github.io/Responsive-web-site/'},
   {img:'../../../assets/images/projects/constructionBootstrap.png',textImg:'landing page (Bootstrap)',desc:'HTML , CSS , Bootstrap',repo:'https://github.com/MeladKarmy/Bootstrap-web-site.git',link:'https://meladkarmy.github.io/Bootstrap-web-site/'},
