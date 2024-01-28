@@ -1,8 +1,17 @@
+# Hello 👋
+
 # Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+https://melad-karmy-portofolio.vercel.app/project
+
+this is my portfolio showing my personal data and my projects
+
+that has pages for About Me & My Services - Resume - Projects - Certificates
+
 
 ## Development server
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
@@ -14,14 +23,15 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+ To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+ 
+ ## To Run the APP on the Local
+ 
+1- Download the code 2- npm i
 
-## Running end-to-end tests
+## Conclusion
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Thank you for visiting my repository and learning more about my project.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+If you have any questions or feedback, please don't hesitate to contact me.
