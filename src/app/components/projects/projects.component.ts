@@ -8,9 +8,16 @@ import { Component } from '@angular/core';
 export class ProjectsComponent {
   projects: any = [
     {
+      img: '../../../assets/images/projects/Car-Showcase.png',
+      textImg: 'Car-Showcase Web App by Next.js',
+      desc: 'TypeScript , Tailwind , Next.js , Matrial UI',
+      repo: 'https://github.com/MeladKarmy/car-showcase',
+      link: 'https://car-showcase-red-zeta.vercel.app/',
+    },
+    {
       img: '../../../assets/images/projects/food-order.png',
       textImg: 'Food Ordering Web App by React',
-      desc: 'JWT , Login & Register ,Operation CRUD for Products(Admin Dashboard), Routing , i18n to translate , Dark Mode, taillwind , Payment Method , Add product to cart , Fillter',
+      desc: 'JWT , Login & Register ,Operation CRUD for Products(Admin Dashboard), Routing ,Redux, Hook Form, i18n to translate , Dark Mode, taillwind , Payment Method , Add product to cart , Fillter',
       repo: 'https://github.com/MeladKarmy/Food-ordering.git',
       link: 'https://food-ordering-pearl-omega.vercel.app/',
     },
